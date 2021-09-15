@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leanromero from Buenos Aires, Argentina
 - 👀 I’m interested in improving my dev skills
-- 🌱 I’m currently Azure Data Factory, DataBricks, microservices architecture and API design.
+- 🌱 I’m currently learning Azure Data Factory, DataBricks, microservices architecture and API design.
 - 📫 How to reach me: just tag me!
 
 <!---
